@@ -19,8 +19,8 @@ export default function Hero() {
           </p>
           <p className="leading-6 w-[90%] text-sm text-center md:text-left very-light-gray">
             Get your life insurance coverage easier and faster. We blend our
-            expertise and technology to help you find the plan that's right for
-            you. Ensure you and your loved ones are protected.
+            expertise and technology to help you find the plan that&apos;s right
+            for you. Ensure you and your loved ones are protected.
           </p>
           <button className="border border-white uppercase py-3 px-8 hover:text-black hover:bg-white">
             View Plans
